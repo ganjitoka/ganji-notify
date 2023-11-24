@@ -1,0 +1,11 @@
+.q-notifications__list--top {
+  top: 10vh;
+}
+
+.q-notifications__list--bottom {
+  bottom: 10vh;
+}
+
+body {
+  background: transparent !important;
+}
